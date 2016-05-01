@@ -1,4 +1,6 @@
-##Access Me
+# Powerful Plugins
+
+## Access Me
 
 Access Me is an add-on for security testing professionals. This add-on is developed by the company that works on XSS Me and SQL Inject Me. Access Me is the can Exploit-Me tool used for testing access vulnerabilities in web applications. This tool works by sending several versions of page requests. A request using the HTTP HEAD verb and a request using a made up SECCOM verb will be sent. A combination of session and HEAD/SECCOM will also be sent.
 
@@ -31,7 +33,7 @@ Firebug is a nice add-on that integrates a web development tool inside the brows
 
 FoxyProxy is an advanced proxy management tool that completely replaces Firefox's limited proxying capabilities. It is a set of proxy and VPN management tools for OS/X, Windows, iOS, Android, Chrome, Firefox, and Linux. They also offer premium reliable, high-bandwidth VPN and proxy servers in 60 different countries.  For a simpler tool and less advanced configuration options, please use FoxyProxy Basic. 
 
-**Firefox:** https://addons.mozilla.org/en-us/firefox/addon/foxyproxy-standard/?src=collection&collection_id=9f646761-2760-4d57-b0a5-06997613e677
+**Firefox:** https://addons.mozilla.org/en-us/firefox/addon/foxyproxy-standard/
 
 **Website:** http://getfoxyproxy.org/
 
