@@ -234,6 +234,11 @@ https://github.com/SmeegeSec/WSDLWizard
 
 ## Misc
 
+### carbonator
+Integris Security Carbonator - The Burp Suite Pro extension that automates scope, spider & scan from the command line. Carbonator helps automate the vulnerability scanning of web applications. Either 1 or 100 web applications can be scanned by issuing a single command. Carbonator is now available from within Burp Suite Pro through the BApp Store.
+
+https://github.com/integrissecurity/carbonator
+
 ### Dradis-Burp
 Burp Suite plugin for the Dradis Framework http://dradisframework.org
 
