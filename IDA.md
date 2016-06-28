@@ -6,6 +6,9 @@ IDA Pro plugin making easier work on BinDiff results.
 ### [Codemap](https://github.com/c0demap/codemap)
 Codemap is a binary analysis tool for "run-trace visualization" provided as IDA plugin.
 
+### [EFIUtils](https://github.com/snare/ida-efiutils)
+Some scripts for IDA Pro to assist with reverse engineering EFI binaries
+
 ### [EsetPlugins](https://github.com/deroko/esetplugins)
 IDA processor/loader for EsetCrackme 2015.
 
