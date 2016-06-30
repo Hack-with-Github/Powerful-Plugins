@@ -1,5 +1,8 @@
 ## Immunity Debugger
 
+### [autobreak-api](https://github.com/MalWerewolf/autobreak-api)
+Immunity Debugger PyCommand to parse a PE and set breakpoints on all imported functions
+
 ### [heaper](https://github.com/stevenseeley/heaper)
 An advanced heap analysis plugin for Immunity Debugger
 
@@ -8,6 +11,9 @@ Immunity Debugger python script for TLS parsing
 
 ### [imm-taint-trace](https://github.com/isislab/imm-taint-trace)
 A taint tracer written via Immunity's plugin system. Taint is tracked on registers and memory locations. Currently, ~40 commonly used instructions are implemented.
+
+### [ImmunityDbgPyCommands](https://github.com/Whistle/ImmunityDbgPyCommands)
+Script that tracks libs. It waits till the lib is loaded and then automatically sets breakpoints on every exported function
 
 ### [ImmunityDebugger](https://github.com/kbandla/ImmunityDebugger)
 A repository of Immunity Debugger releases
@@ -40,3 +46,6 @@ PyCommand Scripts for Immunity Debugger
 
 ### [ollydbg-immunitydbg-exporter](https://github.com/zynamics/ollydbg-immunitydbg-exporter)
 Exporters for OllyDbg and ImmunityDbg for use with zynamics BinNavi <= 3.0
+
+### [bindiff-ruby](https://github.com/aking1012/bindiff-ruby)
+A binary diff utility for patch analysis that uses Immunity Debugger
