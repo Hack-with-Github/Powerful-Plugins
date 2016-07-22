@@ -44,3 +44,6 @@ This repository contains a collection of IDA Pro scripts and plugins.
 
 ### [sk3wldbg](https://github.com/cseagle/sk3wldbg)
 Debugger plugin for IDA Pro backed by the Unicorn Engine.
+
+### [WWCD](https://github.com/sektioneins/WWCD)
+What Would Capstone Decode - IDA plugin that implements a Capstone powered IDA view.
