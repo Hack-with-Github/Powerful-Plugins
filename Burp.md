@@ -10,6 +10,11 @@ A Burp Extender plugin, that will take deserialized AMF objects and encode them 
 
 https://github.com/nccgroup/AMFDSer-ngng
 
+### Airachnid-Burp-Extension
+A Burp Extension to test applications for vulnerability to the Web Cache Deception attack
+
+https://github.com/SpiderLabs/Airachnid-Burp-Extension
+
 ### BountyHelper
 Burp plugin to help bug hunters identify possible parameters vulnerable to XSS reflected attacks
 
