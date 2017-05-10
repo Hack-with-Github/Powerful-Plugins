@@ -1,51 +1,33 @@
 ## Burp Plugins
 
-### ActiveScan++
+### [ActiveScan++](https://github.com/albinowax/ActiveScanPlusPlus)
 ActiveScan++ extends Burp Suite's active and passive scanning capabilities.
 
-https://github.com/albinowax/ActiveScanPlusPlus
-
-### AMFDSer-ngng
+### [AMFDSer-ngng](https://github.com/nccgroup/AMFDSer-ngng)
 A Burp Extender plugin, that will take deserialized AMF objects and encode them in XML using the Xtream library
 
-https://github.com/nccgroup/AMFDSer-ngng
-
-### Airachnid-Burp-Extension
+### [Airachnid-Burp-Extension](https://github.com/SpiderLabs/Airachnid-Burp-Extension)
 A Burp Extension to test applications for vulnerability to the Web Cache Deception attack
 
-https://github.com/SpiderLabs/Airachnid-Burp-Extension
-
-### BountyHelper
+### [BountyHelper](https://github.com/redr2e/bountyHelper)
 Burp plugin to help bug hunters identify possible parameters vulnerable to XSS reflected attacks
 
-https://github.com/redr2e/bountyHelper
-
-### BurpAuthzPlugin
+### [BurpAuthzPlugin](https://github.com/wuntee/BurpAuthzPlugin)
 Burp plugin to test for authorization flaws
 
-https://github.com/wuntee/BurpAuthzPlugin
-
-### BurpHMAC
+### [BurpHMAC](https://github.com/malcomvetter/BurpHmac)
 An HMAC authentication header plugin for Burp Proxy, written in Python.
 
-https://github.com/malcomvetter/BurpHmac
-
-### BurpJDSer-ng-edited
+### [BurpJDSer-ng-edited](https://github.com/federicodotta/BurpJDSer-ng-edited)
 Burp Suite plugin that allow to deserialize Java objects and convert them in an XML format. Unpack also gzip responses. Based on BurpJDSer-ng of omercnet.
 
-https://github.com/federicodotta/BurpJDSer-ng-edited
-
-### BurpNotesExtension
+### [BurpNotesExtension](https://github.com/SpiderLabs/BurpNotesExtension)
 Burp Notes Extension is a plugin for Burp Suite that adds a Notes tab. The tool aims to better organize external files that are created during penetration testing.
 
-https://github.com/SpiderLabs/BurpNotesExtension
-
-### Burp-OAUTH
+### [Burp-OAUTH](https://github.com/dnet/burp-oauth)
 OAuth plugin for Burp Suite Extender
 
-https://github.com/dnet/burp-oauth
-
-### BurpPlugins
+### [BurpPlugins](https://github.com/singleghost/BurpPlugins)
 This repository contains
 - Base32Decode
 - assassin
@@ -53,203 +35,121 @@ This repository contains
 - unicode_decode
 - bing_search
 
-https://github.com/singleghost/BurpPlugins
-
-### CSRF-PoC-plugin
+### [CSRF-PoC-plugin](https://github.com/HanLee/Burp-Suite-CSRF-PoC-plugin)
 Creates a CSRF PoC with in a jiffy
 
-https://github.com/HanLee/Burp-Suite-CSRF-PoC-plugin
+### [convertJavaToPython](https://github.com/artran/burp-plugins)
+Tool to convert the Java Interface definitions into Python definitions to make PyCharm (etc) a little quieter.
 
-### convertJavaToPython
-tool to convert the Java Interface definitions into Python definitions to make PyCharm (etc) a little quieter.
-
-https://github.com/artran/burp-plugins
-
-### CSP-Bypass
+### [CSP-Bypass](https://github.com/moloch--/CSP-Bypass)
 A Burp Plugin for Detecting Weaknesses in Content Security Policies
 
-https://github.com/moloch--/CSP-Bypass
-
-### Deflate-Burp-Plugin
+### [Deflate-Burp-Plugin](https://github.com/GDSSecurity/Deflate-Burp-Plugin)
 The Deflate Burp Plugin is a plug-in for Burp Proxy (it implements the IBurpExtender interface) that decompresses HTTP response content in the ZLIB (RFC1950) and DEFLATE (RFC1951) compression formats.
 
-https://github.com/GDSSecurity/Deflate-Burp-Plugin
-
-### DSXS-SQLMap-Plugin
+### [DSXS-SQLMap-Plugin](https://github.com/arirubinstein/Burp-DSXS-Sqlmap-Plugin)
 Integration Plugin for stamparam's DSXS scanner
 
-https://github.com/arirubinstein/Burp-DSXS-Sqlmap-Plugin
-
-### G2Plugins
+### [G2Plugins](https://github.com/gheld/burp-g2plugins)
 Plugin Collection for BURP related to black-box pentesting
 
-https://github.com/gheld/burp-g2plugins
-
-### GWT-Scan
+### [GWT-Scan](https://github.com/augustd/burp-suite-gwt-scan)
 Burp Suite plugin identifies insertion points for GWT (Google Web Toolkit) requests
 
-https://github.com/augustd/burp-suite-gwt-scan
-
-### HeaderScan
+### [HeaderScan](https://github.com/drk1wi/HeaderScan)
 HeaderScan is a Burp Pro plugin that extends a scope of an automated web scan with some very promising entry points.
 
-https://github.com/drk1wi/HeaderScan
-
-### Headless-Burp
+### [Headless-Burp](https://github.com/NetsOSS/headless-burp)
 Provides a suite of Burp extensions and a maven plugin to automate security tests using BurpSuite.
 
-https://github.com/NetsOSS/headless-burp
-
-### Hiccupy
+### [Hiccupy](https://github.com/iSECPartners/hiccupy)
 Jython binding for Burp to facilitate realtime traffic analysis and modification using simple plugins.
 
-https://github.com/iSECPartners/hiccupy
-
-### HTTP-Script-Generator
+### [HTTP-Script-Generator](https://github.com/h3xstream/http-script-generator)
 ZAP/Burp plugin that generate script to reproduce a specific HTTP request (Intended for fuzzing or scripted attacks).
 
-https://github.com/h3xstream/http-script-generator
-
-### IBM-WebSphere-Portlet-Decoder
+### [IBM-WebSphere-Portlet-Decoder](https://github.com/AccuvantLabs-Appsec/burp-IBM-WebSphere-Portlet-Decoder)
 BurpSuite plugin for decoding IBM WebSphere Portlet States.
 
-https://github.com/AccuvantLabs-Appsec/burp-IBM-WebSphere-Portlet-Decoder
-
-### ImageLocationScanner
+### [ImageLocationScanner](https://github.com/veggiespam/ImageLocationScanner)
 Scan for GPS location exposure in images with this Burp & ZAP plugin.
 
-https://github.com/veggiespam/ImageLocationScanner
-
-### Image-Size
+### [Image-Size](https://github.com/silentsignal/burp-image-size)
 Image size issues plugin for Burp Suite.
 
-https://github.com/silentsignal/burp-image-size
-
-### Image-Metadata
+### [Image-Metadata](https://github.com/h3xstream/burp-image-metadata)
 Burp and ZAP plugin that display image metadata (JPEG Exif or PNG text chunk).
 
-https://github.com/h3xstream/burp-image-metadata
-
-### J2EEScan
+### [J2EEScan](https://github.com/ilmila/J2EEScan)
 J2EEScan is a plugin for Burp Suite Proxy. The goal of this plugin is to improve the test coverage during web application penetration tests on J2EE applications.
 
-https://github.com/ilmila/J2EEScan
-
-### Java-Deserialization-Scanner
+### [Java-Deserialization-Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner)
 All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities.
 
-https://github.com/federicodotta/Java-Deserialization-Scanner
-
-### JDSer-ngng
+### [JDSer-ngng](https://github.com/nccgroup/JDSer-ngng)
 A Burp Extender plugin, that will deserialized java objects and encode them in XML using the Xtream library.
 
-https://github.com/nccgroup/JDSer-ngng
-
-### JSON_Beautifier
-
+### [JSON_Beautifier](https://github.com/4ARMED/burp_plugins/)
 This plugin provides a JSON tab with beautified representation of the request/response.
 
-https://github.com/4ARMED/burp_plugins/
-
-### JSON-Array
+### [JSON-Array](https://github.com/silentsignal/burp-json-array)
 JSON Array issues plugin for Burp Suite.
 
-https://github.com/silentsignal/burp-json-array
-
-### Luhn-Payload-Processor
+### [Luhn-Payload-Processor](https://github.com/EnableSecurity/burp-luhn-payload-processor)
 A plugin for Burp Suite Pro to work with attacker payloads and automatically generate check digits for credit card numbers and similar numbers that end with a check digit generated using the Luhn algorithm or formula (also known as the "modulus 10" or "mod 10" algorithm).
 
-https://github.com/EnableSecurity/burp-luhn-payload-processor
+### [MailPhisher](https://github.com/shpendk/mailphisher)
+A burp plugin written in python to check for email content injection vulnerabilities.
 
-### MailPhisher
-a burp plugin written in python to check for email content injection vulnerabilities.
-
-https://github.com/shpendk/mailphisher
-
-### MultiDEC
+### [MultiDEC](https://github.com/aglane/BurpMultiDEC)
 A multi-tabbed encoder/decoder plugin.
 
-https://github.com/aglane/BurpMultiDEC
-
-### PassiveXssScan
+### [PassiveXssScan](https://github.com/jkadijk/burp-plugins)
 Searches for parameters that are reflected back to make searching for reflected XSS just a bit easier/faster.
 
-https://github.com/jkadijk/burp-plugins
-
-### PyBurp
+### [PyBurp](https://github.com/icewall/PyBurp)
 Jython Plugins and Plugins Manager for Burp.
 
-https://github.com/icewall/PyBurp
-
-### Requests
+### [Requests](https://github.com/silentsignal/burp-requests)
 Copy as requests plugin for Burp Suite. Copies selected request(s) as Python requests invocation.
 
-https://github.com/silentsignal/burp-requests
-
-### RequestUtils
+### [RequestUtils](https://github.com/frohoff/burp-plugin-requestutils)
 Plugin for manipulating requests in PortSwigger Burp Suite Pro v1.5+.
 
-https://github.com/frohoff/burp-plugin-requestutils
-
-### RhinAuditor
+### [RhinAuditor](https://github.com/h3xstream/rhinauditor)
 Static analyzer for JavaScript aiming for security bugs. (ZAP/Burp plugin)
 
-https://github.com/h3xstream/rhinauditor
-
-### SAML
+### [SAML](https://github.com/chrismsnz/burp_saml)
 Plugin for Burp to allow viewing and editing of intercepted SAML messages.
 
-https://github.com/chrismsnz/burp_saml
-
-### Sentinel
+### [Sentinel](https://github.com/dobin/BurpSentinel)
 GUI Burp Plugin to ease discovering of security holes in web applications.
 
-https://github.com/dobin/BurpSentinel
-
-### SessionAuthTool
+### [SessionAuthTool](https://github.com/thomaspatzke/Burp-SessionAuthTool)
 Burp plugin which supports in finding privilege escalation vulnerabilities.
 
-https://github.com/thomaspatzke/Burp-SessionAuthTool
-
-### SQLdude
+### [SQLdude](https://github.com/faffi/sqldude)
 Burp plugin to turn requests into sqlmap commands.
 
-https://github.com/faffi/sqldude
-
-### SQLiPy
+### [SQLiPy](https://github.com/codewatchorg/sqlipy)
 SQLiPy is a Python plugin for Burp Suite that integrates SQLMap using the SQLMap API.
 
-https://github.com/codewatchorg/sqlipy
-
-### WebSphere-Portlet-State-Decoder
+### [WebSphere-Portlet-State-Decoder](https://github.com/faffi/WebSphere-Portlet-State-Decoder)
 WebSphere Portlet State Decoder plugin for Burp.
 
-https://github.com/faffi/WebSphere-Portlet-State-Decoder
-
-### WCFDSer-ngng
+### [WCFDSer-ngng](https://github.com/nccgroup/WCFDSer-ngng)
 A Burp Extender plugin, that will make binary soap objects readable and modifiable.
 
-https://github.com/nccgroup/WCFDSer-ngng
-
-### WSDLWizard
+### [WSDLWizard](https://github.com/SmeegeSec/WSDLWizard)
 WSDL Wizard is a Burp Suite plugin written in Python to detect current and discover new WSDL (Web Service Definition Language) files.
-
-https://github.com/SmeegeSec/WSDLWizard
-
 
 ## Misc
 
-### carbonator
+### [carbonator](https://github.com/integrissecurity/carbonator)
 Integris Security Carbonator - The Burp Suite Pro extension that automates scope, spider & scan from the command line. Carbonator helps automate the vulnerability scanning of web applications. Either 1 or 100 web applications can be scanned by issuing a single command. Carbonator is now available from within Burp Suite Pro through the BApp Store.
 
-https://github.com/integrissecurity/carbonator
-
-### Dradis-Burp
+### [Dradis-Burp](https://github.com/dradis/dradis-burp)
 Burp Suite plugin for the Dradis Framework http://dradisframework.org
 
-https://github.com/dradis/dradis-burp
-
-### Hiccup
+### [Hiccup](https://github.com/zynga/hiccup)
 Hiccup is a framework that allows the Burp Suite (a web application security testing tool, http://portswigger.net/burp/) to be extended and customized, through the interface provided by Burp Extender (http://portswigger.net/burp/extender/). Its aim is to allow for the development and integration of custom testing functionality into the Burp tool using Python request/response handler plugins.
-
-https://github.com/zynga/hiccup
