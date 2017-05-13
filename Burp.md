@@ -107,6 +107,9 @@ A multi-tabbed encoder/decoder plugin.
 ### [PassiveXssScan](https://github.com/jkadijk/burp-plugins)
 Searches for parameters that are reflected back to make searching for reflected XSS just a bit easier/faster.
 
+### [PwnBack](https://github.com/k4ch0w/PwnBack/)
+Burp Extender plugin that generates a sitemap of a website using Wayback Machine
+
 ### [PyBurp](https://github.com/icewall/PyBurp)
 Jython Plugins and Plugins Manager for Burp.
 
