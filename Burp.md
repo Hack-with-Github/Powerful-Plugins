@@ -35,6 +35,9 @@ This repository contains
 - unicode_decode
 - bing_search
 
+### [Burp-ysoserial](https://github.com/summitt/burp-ysoserial)
+YSOSERIAL Integration with burp suite
+
 ### [CSRF-PoC-plugin](https://github.com/HanLee/Burp-Suite-CSRF-PoC-plugin)
 Creates a CSRF PoC with in a jiffy
 
