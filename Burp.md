@@ -18,6 +18,9 @@ Burp plugin to test for authorization flaws
 ### [BurpHMAC](https://github.com/malcomvetter/BurpHmac)
 An HMAC authentication header plugin for Burp Proxy, written in Python.
 
+### [Burp-Hunter](https://github.com/mystech7/Burp-Hunter)
+XSS Hunter Burp Plugin
+
 ### [BurpJDSer-ng-edited](https://github.com/federicodotta/BurpJDSer-ng-edited)
 Burp Suite plugin that allow to deserialize Java objects and convert them in an XML format. Unpack also gzip responses. Based on BurpJDSer-ng of omercnet.
 
