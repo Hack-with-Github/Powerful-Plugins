@@ -152,6 +152,9 @@ A Burp Extender plugin, that will make binary soap objects readable and modifiab
 ### [WSDLWizard](https://github.com/SmeegeSec/WSDLWizard)
 WSDL Wizard is a Burp Suite plugin written in Python to detect current and discover new WSDL (Web Service Definition Language) files.
 
+### [xssValidator](https://github.com/nVisium/xssValidator)
+Burp intruder extender that is designed for automation and validation of XSS vulnerabilities.
+
 ## Misc
 
 ### [carbonator](https://github.com/integrissecurity/carbonator)
