@@ -62,6 +62,9 @@ Plugin Collection for BURP related to black-box pentesting
 ### [GWT-Scan](https://github.com/augustd/burp-suite-gwt-scan)
 Burp Suite plugin identifies insertion points for GWT (Google Web Toolkit) requests
 
+### [Handy Collaborator](https://github.com/federicodotta/HandyCollaborator)
+Burp Suite plugin created for using Collaborator tool during manual testing
+
 ### [HeaderScan](https://github.com/drk1wi/HeaderScan)
 HeaderScan is a Burp Pro plugin that extends a scope of an automated web scan with some very promising entry points.
 
