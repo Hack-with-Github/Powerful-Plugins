@@ -9,6 +9,9 @@ A Burp Extender plugin, that will take deserialized AMF objects and encode them 
 ### [Airachnid-Burp-Extension](https://github.com/SpiderLabs/Airachnid-Burp-Extension)
 A Burp Extension to test applications for vulnerability to the Web Cache Deception attack
 
+### [AWS-Extender](https://github.com/VirtueSecurity/aws-extender)
+BurpSuite extension to identify and test S3 buckets as well as Google Storage buckets and Azure Storage containers for common misconfiguration issues using the boto/boto3 SDK library
+
 ### [BountyHelper](https://github.com/redr2e/bountyHelper)
 Burp plugin to help bug hunters identify possible parameters vulnerable to XSS reflected attacks
 
