@@ -59,6 +59,9 @@ The Deflate Burp Plugin is a plug-in for Burp Proxy (it implements the IBurpExte
 ### [DSXS-SQLMap-Plugin](https://github.com/arirubinstein/Burp-DSXS-Sqlmap-Plugin)
 Integration Plugin for stamparam's DSXS scanner
 
+### [EasyCSRF](https://github.com/0ang3el/EasyCSRF)
+Helps to find weak CSRF-protection in WebApp which can be easily bypassed
+
 ### [G2Plugins](https://github.com/gheld/burp-g2plugins)
 Plugin Collection for BURP related to black-box pentesting
 
