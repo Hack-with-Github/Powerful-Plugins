@@ -116,6 +116,9 @@ A plugin for Burp Suite Pro to work with attacker payloads and automatically gen
 ### [MailPhisher](https://github.com/shpendk/mailphisher)
 A burp plugin written in python to check for email content injection vulnerabilities.
 
+### [Minesweeper](https://github.com/codingo/Minesweeper)
+A burp plugin to aid in the detection of scripts being loaded from over 3200 malicious cryptocurrency mining domains (cryptojacking).
+
 ### [MultiDEC](https://github.com/aglane/BurpMultiDEC)
 A multi-tabbed encoder/decoder plugin.
 
