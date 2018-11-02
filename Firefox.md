@@ -82,6 +82,12 @@ This is another search plugin that lets users search for tools and exploits from
 
 **Firefox:** https://addons.mozilla.org/en-us/firefox/addon/packet-storm-search-plugin/
 
+### SecApps
+
+Secapps Suite is a penetration testing toolkit that is also available as add-on for Firefox. SecApps Suite can detect most common vulnerabilities in web applications. This tool can easily detect XSS, SQL injection and other web application vulnerability. Unlike other listed tools, it is a complete penetration testing tool in itself available as a browser add-on. It gives most of the features available in standalone tool.
+
+**Firefox:** https://addons.mozilla.org/en-us/firefox/addon/secapps/
+
 ### SecurityFocus Vulnerabilities search plugin
 
 SecurityFocus Vulnerabilities search plugin, is not a security tool but a search plugin that lets users search for vulnerabilities from the Security Focus database.
@@ -118,12 +124,6 @@ The User Agent Switcher extension adds a menu and a toolbar button to switch the
 The Web Developer extension adds various web developer tools to the browser.
 
 **Firefox:** https://addons.mozilla.org/en-US/firefox/addon/web-developer/
-
-### Websecurify
-
-Websecurify is a nice penetration testing tool that is also available as add-on for Firefox. WebSecurify can detect most common vulnerabilities in web applications. This tool can easily detect XSS, SQL injection and other web application vulnerability. Unlike other listed tools, it is a complete penetration testing tool in itself available as a browser add-on. It gives most of the features available in standalone tool.
-
-**Firefox:** https://addons.mozilla.org/en-us/firefox/addon/websecurify/
 
 ### XSS Me
 
